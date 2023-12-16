@@ -1,4 +1,4 @@
-# TMCFN: Text-Supervised Multidimensional Contrastive Fusion Network for Hyperspectral and LiDAR Classification
+# TMCFN
 
 ## Prerequisites
 
